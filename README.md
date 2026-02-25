@@ -1,93 +1,145 @@
 <h1 align="center">FoodSquad Pvt Ltd</h1>
-<h3 align="center">Restaurant Technology & Digital Innovation | powering Royal Biryani House</h3>
+<h3 align="center">Restaurant Technology, Digital Infrastructure & Operational Intelligence</h3>
 
 <p align="center">
-  <img src="https://royalbiryanihouse.com/wp-content/uploads/2025/03/rbh-logo.png" width="140" alt="Royal Biryani House Logo"/>
+  <img src="https://royalbiryanihouse.com/wp-content/uploads/2025/03/rbh-logo.png" width="160" alt="Royal Biryani House Logo"/>
 </p>
 
 <p align="center">
-  Empowering authentic Indian cuisine with modern technology.
+  Powering Royal Biryani House with scalable technology and data-driven systems.
 </p>
 
 ---
 
 ## 🥘 About Royal Biryani House
 
-Royal Biryani House is an authentic Indian restaurant brand serving traditional Hyderabadi biryani and other Indian delicacies in the United States with locations in:
+Royal Biryani House is a premium Indian restaurant brand bringing the authentic taste of traditional Hyderabadi cuisine to the United States.
 
-- **Bothell, WA**
-- **Lake Stevens, WA**
-- **Katy, TX**
-- **Herndon, VA**
-- **Redmond, WA (coming soon)** :contentReference[oaicite:0]{index=0}
+Rooted in culinary heritage, the brand is known for:
 
-Our commitment is to preserve the **rich traditions of Indian cooking** with spices sourced directly from India and premium ingredients, while delivering **great dine-in, takeout and catering experiences** for our guests. :contentReference[oaicite:1]{index=1}
+- Slow-cooked Dum-style Hyderabadi Biryani  
+- Authentic spice blends sourced directly from India  
+- Carefully curated traditional recipes  
+- Fresh, high-quality ingredients  
+- Consistent taste and preparation standards across locations  
 
----
+Royal Biryani House focuses on preserving the richness of Indian cooking traditions while adapting to the expectations of modern dining experiences in the U.S. market.
 
-## 🍽️ What We Serve
+### 📍 Current Locations
 
-Royal Biryani House specializes in:
+- Bothell, Washington  
+- Lake Stevens, Washington  
+- Katy, Texas  
+- Herndon, Virginia  
+- Redmond, Washington (Coming Soon)  
 
-- **Royal Hyderabadi Biryani**
-- **Butter Chicken**
-- **Vegetable Biryani**
-- **Samosas & Appetizers**
-- **Traditional Indian Curries & Sides** :contentReference[oaicite:2]{index=2}
-
-We focus on delivering bold flavors, quality preparation, and a memorable dining experience rooted in tradition but refined for modern tastes. :contentReference[oaicite:3]{index=3}
+The brand serves guests through dine-in, takeout, online ordering, and catering services, supporting both individual customers and large-scale event requirements.
 
 ---
 
-## 💼 Who We Are
+## 🍽️ Culinary Specialization
 
-FoodSquad Pvt Ltd drives the **digital, technical, and operational transformation** behind Royal Biryani House. We build systems that optimize:
+Royal Biryani House is widely recognized for:
 
-- **Online Ordering & Menu Management**
-- **Point-of-Sale & Billing Platforms**
-- **Inventory & Supply Chain Tracking**
-- **Data Dashboards for Operations**
-- **Automation of Reporting & Analytics**
+### Signature Biryanis
+- Royal Hyderabadi Chicken Biryani  
+- Goat Dum Biryani  
+- Vegetable Biryani  
+- Family Packs & Party Trays  
 
-These systems help ensure consistency, accuracy, and efficiency across all locations — enabling our teams to serve guests better and scale operations. 🚀
+### Classic Indian Entrées
+- Butter Chicken  
+- Chicken Tikka Masala  
+- Paneer Specialties  
+- Traditional Curries & Gravies  
 
----
+### Appetizers & Sides
+- Samosas  
+- Tandoori Items  
+- Fresh Breads & Accompaniments  
 
-## ⚙️ Technology Approach
-
-We harness modern tools and AI-driven workflows for a smarter restaurant ecosystem:
-
-### 🔹 Web & Digital Platforms
-- Responsive web ordering and customer engagement systems
-- Centralized platform for managing menus & feedback  
-
-### 🔹 Automation & AI-Assisted Development
-- AI-assisted coding for development tasks  
-- Workflow automation to reduce manual work and errors
-- Structured automation for reporting and business intelligence
-
-### 🔹 Data & Tech Stack
-- Power BI for dashboards
-- Cloud infrastructure for scalable deployment  
-- SQL-based databases (MySQL, SQL Server)
-- Python for backend automation and integration
+The culinary philosophy centers on authenticity, balanced spice profiles, and consistent flavor delivery.
 
 ---
 
-## 👁️ Vision
+## 💼 About FoodSquad Pvt Ltd
 
-To build a **data-driven, AI-enabled restaurant ecosystem** that blends authentic culinary traditions with modern digital infrastructure — delivering unforgettable experiences for every guest, every time.
+FoodSquad Pvt Ltd is the technology and operations enablement partner behind Royal Biryani House.
+
+We design, build, and manage the digital and data infrastructure that supports multi-location restaurant scalability.
+
+Our responsibilities include:
+
+### 🔹 Digital Commerce Enablement
+- Online ordering platforms
+- Centralized menu configuration
+- Digital brand presence management
+- Third-party delivery integration
+
+### 🔹 POS & Operational Systems
+- Billing and transaction integrations
+- Location-level reporting standardization
+- Menu engineering and pricing analytics
+
+### 🔹 Inventory & Supply Chain Intelligence
+- Ingredient tracking systems
+- Cost control dashboards
+- Procurement visibility tools
+
+### 🔹 Business Intelligence & Reporting
+- Executive KPI dashboards
+- Location performance analytics
+- Revenue and margin monitoring
+- Automated financial reconciliation systems
+
+Our objective is to ensure operational consistency, real-time visibility, and data-backed decision-making across all restaurant locations.
 
 ---
 
-## 📫 Get in Touch
+## ⚙️ Technology Stack & Architecture
 
-For partnerships, integrations, or business inquiries:
+FoodSquad leverages modern, scalable technologies to build a resilient restaurant ecosystem:
 
-✉️ **Email:** corp@wearefoodsquad.com
+### Data & Analytics
+- Power BI for enterprise-grade dashboards
+- SQL-based databases (MySQL / SQL Server)
+- Structured data modeling for performance tracking
+
+### Automation & Engineering
+- Python-based automation frameworks
+- Workflow automation for finance and operations
+- AI-assisted development pipelines
+
+### Infrastructure
+- Cloud-based deployment models
+- Secure repository management via GitHub
+- Version-controlled system architecture
+
+---
+
+## 👁️ Strategic Vision
+
+To build a fully integrated, data-driven restaurant ecosystem where culinary excellence is supported by intelligent digital infrastructure.
+
+We aim to combine:
+
+- Authentic Indian culinary heritage  
+- Operational precision  
+- Technology-enabled scalability  
+- Data-backed strategic decisions  
+
+Delivering exceptional guest experiences while ensuring sustainable business growth.
+
+---
+
+## 📫 Corporate Contact
+
+For enterprise partnerships, integrations, or strategic collaborations:
+
+Email: corp@wearefoodsquad.com  
 
 ---
 
 <p align="center">
-  <i>Accelerating restaurant excellence with technology, automation, and innovation.</i>
+  <strong>Blending tradition with technology. Scaling flavor with intelligence.</strong>
 </p>
